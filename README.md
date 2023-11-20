@@ -1,4 +1,4 @@
-- 👋 Hi, Everyone I’m @CesarLope-z, I'd like to know all of thinks about program, i'm 18 Years old
+- 👋 Hi, Everyone I’m @CesarLope-z, I'd like to know all of things about program, i'm 19 Years old
 - 👀 I’m interested in code, resolve bugs, electronic components etc!.
 - 🌱 I’m currently learning python, web design and try to know all to be the greatest coder
 - 💞️ I’m looking to collaborate or help you to somethink you need

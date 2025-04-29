@@ -17,7 +17,9 @@ Hello! I’m Cesar Lopez, a 20-year-old developer passionate about programming, 
 
 # 📊 GitHub Stats:
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarLope-z&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=CesarLope-z&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CesarLope-z&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CesarLope-z&icon=0&color=0)](https://visitcount.itsvg.in)

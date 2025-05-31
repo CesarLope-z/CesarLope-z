@@ -28,7 +28,7 @@ Hello! I’m Cesar Lopez, a 20-year-old developer passionate about programming, 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💡 About Me
-🎓 I’m currently focused on learning **Python**, **web development**, and exploring the intersection between software and hardware.  
+🎓 I’m currently focused on learning, **web development**, and exploring the intersection between software and hardware.  
 🧠 I’m driven by curiosity and a desire to deeply understand how technology works, aiming to build efficient and meaningful solutions.  
 🛠️ I enjoy working on collaborative projects, debugging code, and taking on challenges that push my skills forward.
 
